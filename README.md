@@ -31,7 +31,7 @@ The Java EE POS System is a versatile backend solution designed to handle Point 
 1. *Clone the Repository:*
 
     bash
-    git clone https://github.com/your-repo/javaee-pos-system.git
+    git clone[ https://github.com/your-repo/javaee-pos-system.git](https://github.com/mueenamueen/POS-JavaEE)
     cd javaee-pos-system
     
 
